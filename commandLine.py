@@ -5,9 +5,11 @@ from os import listdir
 from os.path import isfile, isdir, exists
 import Exceptions
 import basicFunctions
+import wit
 
 
-class wit:
+
+class commandLine(wit):
 
     @classmethod
     def wit_init(cls, current_path):
