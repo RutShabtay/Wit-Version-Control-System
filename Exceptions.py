@@ -9,3 +9,9 @@ class WitNotExistsError(Exception):
 class NotValidPathSpec(Exception):
     pass
 
+class InvalidFileExtension(Exception):
+    pass
+
+class InvalidCommitId(Exception):
+    pass
+

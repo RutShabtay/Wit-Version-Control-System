@@ -1,26 +1,24 @@
 {
   "repositoryData": [
     {
-      "version_Hash_Code": "2024-12-26 Code-3", 
-      "path": "C:\\Users\\user1\\Desktop\\Python\\Lesson4\\H.W\\.wit", 
+      "path": "C:\\Users\\user1\\Desktop\\Python\\try\\.wit",
+      "version_Hash_Code": "2024-12-29 Code-0",
       "commit": {
-        "1": {
-          "message": "eeeee", 
-          "name": "2024-12-26 Code-1"
-        }, 
         "0": {
-          "message": "eeeee", 
-          "name": "2024-12-26 Code-0"
-        }, 
-        "3": {
-          "message": "eeeee", 
-          "name": "2024-12-26 Code-3"
-        }, 
-        "2": {
-          "message": "eeeee", 
-          "name": "2024-12-26 Code-2"
+          "message": "ttt",
+          "name": "2024-12-29 Code-0"
         }
       }
+    },
+    {
+      "path": "C:\\Users\\user1\\Desktop\\Python\\try\\.wit",
+      "version_Hash_Code": "",
+      "commit": {}
+    },
+    {
+      "path": "C:\\Users\\user1\\Desktop\\Python\\try\\.wit",
+      "version_Hash_Code": "",
+      "commit": {}
     }
   ]
 }
